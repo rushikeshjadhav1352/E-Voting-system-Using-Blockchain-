@@ -1,7 +1,10 @@
 # BlockChainVoting
 
-A blockchain-based E-voting system, created as the final year project of Shri Bhagubhai Mafatlal Polytechnic. Teammates include me, Sayyam Gada and Charmee Mehta.
-> The application is MIT-Licensed.
+1)Decentralization and Transparency: The use of blockchain technology enables a decentralized and transparent voting system where each vote is recorded as a unique transaction in a decentralized ledger, making it difficult to manipulate the results.
+
+2)Increased Security: The use of blockchain technology provides a secure platform for voting, reducing the risk of fraud, tampering or manipulation of the voting results. The immutability of the blockchain ensures that the results cannot be altered or deleted.
+
+3)Improved Accessibility: An online e-voting system using blockchain technology can make the voting process more accessible for eligible voters, as they can cast their vote from any location with an internet connection, reducing barriers to participation and increasing voter turnout. Additionally, blockchain technology enables real-time counting and reporting of the results, making the process more efficient and transparent.
 
 ## Build Setup
 
